@@ -16,7 +16,7 @@ as part of a prompt. The reasoning was illustrated using the agent scratchpad to
 
 ### Running
 
-1. Use pipenv to install python libraries from requirements.txt
+1. Use pipenv to install python libraries from requirements.txt (a virtual environemnt is always recommended)
 2. Add environment variable in a .env file to hold the OpenAI API key
 3. Run main.py
 4. Observe results and can re-reun using a different input text
